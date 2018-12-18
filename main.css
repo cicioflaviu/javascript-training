@@ -48,11 +48,8 @@ nav > a:hover {
 }
 
 .next, .back {
-    font-size: 72px;
+    font-size: 184px;
     cursor: pointer;
-    font-weight: bold;
-    
-
 }
 
 .next:hover, .back:hover {
